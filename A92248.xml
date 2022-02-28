@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reasons humbly offered for continuing the stage-coaches upon the grand roads of this kingdome answered</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92248</idno>
+            <idno type="STC">Wing R537</idno>
+            <idno type="STC">ESTC R229923</idno>
+            <idno type="EEBO-CITATION">99895732</idno>
+            <idno type="PROQUEST">99895732</idno>
+            <idno type="VID">153280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reasons humbly offered for continuing the stage-coaches upon the grand roads of this kingdome answered</title>
+               </titleStmt>
+               <extent>4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2357 cropped, affecting text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coaching --  England --  Early works to 1800.</term>
+               <term>England --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:153280:1"/>
+            <pb facs="tcp:153280:1"/>
+            <pb facs="tcp:153280:2"/>
+            <pb facs="tcp:153280:2"/>
+            <pb facs="tcp:153280:3"/>
+            <pb facs="tcp:153280:3"/>
+            <head>The Reaſons Humbly offered for continuing the Stage-Coaches upon the grand Roads of this Kingdome ANSWERED.</head>
+            <p>Firſt and Second Reaſon,</p>
+            <p>
+               <seg rend="decorInit">T</seg>He keepers of the ſaid Coaches apprehending the uſefulneſs of them to the publick, and being by Counſel adviſed it was lawful to ſet them up, did about 30. years ſithence ſet them up, have ever ſithence continued them, at their very great charge &amp; hazard for the conveniency of the ſubject &amp; to the general ſatisfaction of thoſe that have uſed them; layd out all their ſtocks upon, and ſpent all their time in ma<g ref="char:EOLhyphen"/>nagement of them, by means whereof they have rendred themſelves unfit for any other courſe of lively hood for ſupport of themſelves and familes.</p>
+            <p>Anſwer By the Stage-Coaches on the Grand Roads of <hi>England,</hi> is meant <hi>Exeter, Salsbury, Briſtol, Southampton, Dover, Norwich, Lincoln, Northampton, York Weſtcheſter, and Shrewsbury,</hi> the owners of which Coaches, joyn in oppoſing the ſuppreſſing.</p>
+            <p>
+               <hi>Norwich</hi> was ſet up about 30 years, ſithence <hi>York</hi> about 18. <hi>Cheſter</hi> about 20, <hi>Exeter</hi> between 20 and 30. the others very lately.</p>
+            <p>The firſt ſtage-Coaches were long Coaches in the middle of the Waggons, that travelled with their horſes one before another, about 20 or 25 miles a day, were a week or eight dayes going to <hi>York, Exe<g ref="char:EOLhyphen"/>ter,</hi> and <hi>Cheſter,</hi> and ſo proportionably to the other ſtages.</p>
+            <p>Theſe travelled eaſy, carryed ſick and Antient people, journeys ſuitable to their ſtrength, and went not above one to a place, in one week, ſo did no great hurt.</p>
+            <p>And as it was a great convenyency to the Subject, that could not travel any other way, ſo it was law<g ref="char:EOLhyphen"/>ful to ſet them up.</p>
+            <p>
+               <hi>But the perſons who now keep Stage Coaches, are not the men that firſt ſet them up, nor have they continued them</hi> 30 <hi>years, or been ſince they undertook them a conveniance to the Subjects that have uſed them, any way anſwerable to the grandure of the miſchiefs they have been, and are, to Trade in general, eſpecially to the Ma<g ref="char:EOLhyphen"/>nufacturers of</hi> Wooll, Leather, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ron, <hi>the ſtaple commodites of the Kingdome, who ought to be encouraged; nor have they given that general ſatisfaction to thoſe that have uſed them, as will appear in the anſwer to their Arguments.</hi>
+            </p>
+            <p>But theſe Gentlemen finding the Coaches aforeſaid ſet up, took the advantage of the late troubles, and when mens horſes were taken from them, ſo that they had not to carry them their journeys, ſet up theſe Coaches that go with horſes two a breaſt, and for many years travell'd with four horſes in a Coach, and went to <hi>York, Exeter,</hi> and <hi>Cheſter,</hi> in a week, and but once a week; all this time there were ſo few, that they did little or no hurt, but now of late, have ſet up running Stage-Coaches, change horſes twice a day, run theſe long journyes in four dayes, to the great prejudice of the Countrey, and they have three Coaches a week at leaſt, ſometimes, 4, 5, 6, Coaches go to every of theſe towns, which is a great deſtru<g ref="char:EOLhyphen"/>ction to the Countrey as will hereafter appear.</p>
+            <p>From theſe Gentlemen, example it is, that now all great towns in <hi>England</hi> have ſet up Stage-Coaches and every little town within twenty miles of <hi>London</hi> ſworms with them, to the almoſt utter deſtruction of the Countrey.</p>
+            <p>
+               <hi>Theſe Stage Coachemen that have been the principal occaſions of this incomparable advantage to the King<g ref="char:EOLhyphen"/>dome, having laid out their ſtock their time, and their wit, to contrive this Ruine, and who have no way to live but upon the further deſtruction of the people, hope therefore that they ſhall be continued, and allowed. For</hi> York <hi>and</hi> Lincoln Stage <hi>is kept by Mr.</hi> Doin <hi>a Scrivener by trade, Mr.</hi> Gardne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>an Innholder in</hi> York, <hi>and a Coach and Harneſ-maker, followes the trade, The Widdow</hi> Hayhunt <hi>who is Licenſed to keep a Coach in</hi> Lon<g ref="char:EOLhyphen"/>don and keeps an Inn, Exeter <hi>Coach is kept by Mr.</hi> Fleming <hi>a Licenſed Coach in</hi> London, <hi>Mr.</hi> Biſcopy <hi>and Mr.</hi> Baker <hi>both rich men and of other imploy.</hi> Shrewsbury <hi>and</hi> Cheſter Coach <hi>kept by Mr.</hi> Halloway <hi>Mr.</hi> Fowler <hi>and Mr.</hi> Earle, <hi>all rich men, and Licenſed to keep Coaches in</hi> London, <hi>and the laſt of them, followes the trade of Coach and Harneſs making.</hi> Dover Stage <hi>kept by Mr.</hi> Jones <hi>Licenſed in</hi> London, Nothampton, <hi>by Mr.</hi> King <hi>Licenſed in</hi> London. Wincheſter <hi>and</hi> Henly, <hi>by</hi> Mr. Hathoway <hi>and Mr,</hi> Robinſon, <hi>both Licenſed,</hi> Windſor, <hi>by Mr.</hi> Sadler <hi>a Licenſed man, and</hi> Mr. Lee <hi>a Rich Barber Chyrurgeon.</hi> Gloceſter, Bedford, Huntington, <hi>by Mr.</hi> Comwell, <hi>Mr.</hi> Raſh, <hi>Mr.</hi> York, <hi>All three of them great Carryers and keep Waggons.</hi> Briſtol, Bath, Newberry, <hi>by Widdow</hi> Tooby, <hi>who is Licenſed. Mr.</hi> Baldwin <hi>that hath an Inn at</hi> Twiford, <hi>Mr.</hi> Wells <hi>Innkeeper at</hi> Bath, <hi>Mr.</hi> Shute <hi>a Baker, and</hi> Mr. Drew <hi>Innkeeper at</hi> Newberry. Redding <hi>Coaches, the owners Inholders in</hi> Redding, Tunbridge, Mr. Forſter, <hi>and others, all Licenſed in</hi> London. Gilford, Mr. Kemp <hi>Licenſed in</hi> London. Mr. Smart <hi>Innholder in</hi> Gilford. Oxford. Mr. Moore, <hi>and</hi> Mr. Bartlet <hi>both Waggoners and Carryers.</hi> Salisbury, <hi>Mr.</hi> Minchin <hi>a Carryer, the others great Inhol<g ref="char:EOLhyphen"/>ders in</hi> Salisbury, <hi>and ſo in moſt towns of</hi> England, (<hi>except here about</hi> London, <hi>which are all ſet up within few years</hi>) The owners of Stage-Coaches are Inholders, firſt, one in a town ſet up a Coach, brought all Gueſts to his houſe, Then a ſecond, third and fourth in a town ſet them up to bring gueſts to their hou<g ref="char:EOLhyphen"/>ſes, and run one againſt the other, killed multitudes of Horſes and almoſt ruin'd one another, inſomuch that excepting theſe Long Stage-Coaches, (who you ſee know not how to live, though qualified as afore<g ref="char:EOLhyphen"/>ſaid) they would be glad all over <hi>England</hi> to have them put down, if that all might go down, for then trade would be defuſed, and each expect a Trade according to the reception they had for their Gueſts.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:153280:4"/>3. Reaſon. <hi>They aleadge they imploy great numbers of people of other Trades, ſet poor boyes at work, that would live idly, breed many fit to make Coachmen and Poſtilions for the Nobility and Gentry.</hi>
+            </p>
+            <p>To this it is humbly anſwered, where they imploy one man in their ſervice, they deſtroy a hundred men that (if they were put down) would live handſomely, they have a man to drive a Coach, and a boy at an Inn to rub their Horſes, and an Hoſtler to help greaſe or make clean their Coach; this is the moſt they uſe: but they take away the trade of the <hi>Shoemaker, Spurrier, Cutler, Girdler, Lorrainer, Gun<g ref="char:EOLhyphen"/>ſmith, Glover, Hoſier, Clothier,</hi> and all that depends upon clothing. The <hi>Smith,</hi> the <hi>Brayſier,</hi> the <hi>Foun<g ref="char:EOLhyphen"/>der,</hi> the <hi>Taylor,, Cloth-worker, Cloth-drawer,</hi> and a hundred Trades more, to which men were bound, ſerved ſeven years Apprentiſhip, and are of the greateſt advantage to the Kingdome,, ought to be encoura<g ref="char:EOLhyphen"/>ged, being the Manufacturors of the Staple commodities of the Kingdome; theſe with their Families will be proved above <hi>two hundred thouſand</hi> of them are undone, ſhall theſe be ruin'd by about <hi>two thouſand</hi> men that drive Stage-Coaches and rubb horſes heels, on pretence they ſhall be fit to ſerve the Nobility and Gen<g ref="char:EOLhyphen"/>try; when as whilſt they are breeding, they ſo lower the Rents of Lands, by hindring the Conſumption of the Manufacturies and Proviſions of the Kingdome; that few Gentlemen will be in a capacity (if continued) to keep either Coach or Horſes for them to drive.</p>
+            <p n="4">4. Reaſon they offer is, <hi>That multitudes of Men and women, antient or ſickly, and ſo of children that are not able otherwiſe to travel, or not without great danger will be prejudicial.</hi>
+            </p>
+            <p>It is humbly offered, ſuch people when they had occaſion to come to <hi>London</hi> (before theſe Coaches were ſet up) did come up on horſeback, but if they be antient and ſickly, or young children, then is the long Coa<g ref="char:EOLhyphen"/>ches much fitter to carry them, then the running Coaches, for they travel eaſier, go out later, come in ear<g ref="char:EOLhyphen"/>lier, bate longer by the way; and therefore as antiently would be made uſe of, if running Coaches were down and theſe if not too numerous, would do no great hurt to the Countrey.</p>
+            <p n="5">5. Reaſon, <hi>It would be great trouble to the Subjects, diſapoint their buſineſs, and be an impoſing upon them in the manner of their travel and expences, which is unuſual, grievous and without Preſident.</hi>
+            </p>
+            <p>
+               <hi>For Anſwer,</hi> It need be no diſappointment, for if they be minded to Coach it, they may ſet out a day or too ſooner, and come in the Waggon Coaches; if their buſineſs be ſpeed, they may ride Poſt, and as cheap as in theſe Coaches; for a man may have a Poſt horſe at 3<abbr>
+                  <hi>d.</hi>
+               </abbr> a mile, which to <hi>York</hi> will come but to one pound ſixteen ſhillings, and you muſt pay forty ſhillings for the Coach, and then you may come in half the time that the Coach comes, and there is no impoſing upon any man, he may hire a Coach, travel in his own Coach, or go in long Coach, or hire Horſes, go Poſt, or uſe his own horſes.</p>
+            <p n="6">6. Reaſon, <hi>Perſons that come from</hi> Ireland, France, Flanders, Iſle <hi>of</hi> Wight, Garnſy, Jerſey, <hi>from</hi> Scotland <hi>or</hi> Wales, <hi>what ſhall they do, they have found by experience how exacting men are that keep Hor<g ref="char:EOLhyphen"/>ſes to Lett, and found the inconveniency of tyred Iades.</hi>
+            </p>
+            <p>Here you may ſee the deſign is only to keep up the ſix or ſeaven Stages aforenamed. <hi>Dover</hi> to bring Paſ<g ref="char:EOLhyphen"/>ſengers that come from <hi>France</hi> and <hi>Flanders, Briſtol, Exeter</hi> and <hi>Cheſter</hi> to bring Paſſengers from <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or <hi>VVales,</hi> and <hi>York</hi> to bring people from <hi>Scotland, Southampton</hi> to bring from <hi>Iſle</hi> of <hi>VVight, Guernſey</hi> and <hi>Ierſey,</hi> of which there will be no need at all to have any Coaches but the Waggon Coaches; and whereas they talk of tyred Jades, were theſe Coaches down, that men might have hopes of hire for their horſes, they would keep very good ones, and let them cheaper then ten ſhillings a day, which Gentlemen are forced to pay for riding in theſe Coaches. And I ſhould be glad if they would be ſo ingenious as to confeſs how often Gentlemen are hindred by the breaking of their rotten Harneſs, or Wheeles, Axeltrees, or Pearches; or by their Tyring of their Horſes, or overthrowing their Coaches, and ſo brought at mid<g ref="char:EOLhyphen"/>night into their Inns by Torch lights.</p>
+            <p n="7">7. Reaſon <hi>Putting down Stage-Coaches would be greater prejudice to the Subjects in general then the keeping them up, can be to any perſon; yet if all the Petitioners were all damnified, their intereſts all conjoyn<g ref="char:EOLhyphen"/>ed together, are not to be reſpected in compariſon of the publick; and that keeping theſe Coaches is of ſuch publick concernment, they offer,</hi>
+            </p>
+            <p n="1">1. <hi>That way of Travelling by which the people receive moſt benefit, can Travel with the least expence of money and time, and most advantageous to their health and buſineſs, ought to be countenanced.</hi>
+            </p>
+            <p n="2">2. <hi>That way of Travelling which is abſolutely neceſſary to many, uſeful to others, and impoſed upon by none, ought to be countenanced, but ſuch is that of Stage-Coaches, therefore</hi>
+            </p>
+            <p>
+               <hi>For Anſwer,</hi> It is great preſumption in theſe Coachmen to bring or ſet up their Intereſts, in the ballance or in competition with the intereſt of the publick, and to ſay (as in effect they do) that if all the Petitioners were damnified their intereſts (howbeit they know the intereſt of all the Gentry, the Farmers, the Coun<g ref="char:EOLhyphen"/>try Tradeſmen, and all the Manufacturors of our Staple Commodites, is concerned in their being ſupreſ<g ref="char:EOLhyphen"/>ſed, inſomuch that they are curſed where ever they come, by the people, nay, though they know the ſafe<g ref="char:EOLhyphen"/>ty of the King and Kingdome is endangered by them, the Kings Revenue as well as Gentlemens Eſtates are leſſened, breeding of Watermen and Horſes hindred) are nothing nor to be reſpected in compariſon of the publick, which they would make their own particular intereſt to be.</p>
+            <p>For the Arguments they give, we will admit them good and right, and offer that, which it is hoped will convince all the Readers, that they are rather againſt them than for them.</p>
+            <p>Firſt, <hi>Stage-Coaches is a way of Travelling by which men receive moſt benefit.</hi>
+            </p>
+            <p>Second, <hi>Can Travel with leaſt expence of Money and Time.</hi>
+            </p>
+            <p>Third, <hi>VVith most advantage to their healths and buſineſs.</hi>
+            </p>
+            <p>Fourth, <hi>They are abſolutely neceſſary to ſome, uſeful to others, impos'd upon by none,</hi> Ergo, <hi>to be countenanced.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:153280:4"/>For the firſt, can that way of travelling be of the greateſt benefit to travellers that is to the deſtructi<g ref="char:EOLhyphen"/>on of Trade, prevents the conſumption of Proviſions and Manufacturies and brings down the rents of all mens Eſtates.</p>
+            <p>They that travel, are either the Gentlemen, the Tradſeman, the Husbandman, or the Poor.</p>
+            <p>If Gentlemen, what advantage is it to him, ſuppoſe he could ſave mony by a Journey to hinder the conſumption of Proviſions, and the Manufacturies of the Kingdom, by which he brings down his own Rents ten times as much in a year, as he ſaves in his Journey.</p>
+            <p>If Tradſeman, he cannot be ſaid to have advantage by that way of travelling that deſtroyes all Trade, his Intereſt is to promote conſumption of all Commodities.</p>
+            <p>The Husbandman or Farmer, cry out all over <hi>England,</hi> they are ruined and have no vent for their Corn, and Hay, and Straw?</p>
+            <p>The Graſier, he complains for want of a market for his Cattle; And for the Poor, Waggon, or long Coaches, would beſt ſuite with their Purſes.</p>
+            <p>Secondly, It is a miſtake to ſay men may travel with leſs expence of mony or time by Coach, then they can do otherwiſe, for men may travel faſter if they ride Poſt or on their own Horſes (then in moſt Stage-Coaches,) and as cheap or cheaper all things conſidered.</p>
+            <p>Note, from <hi>London</hi> to <hi>Exeter, York, Cheſter,</hi> each Paſſenger pays 40 <abbr>
+                  <hi>s.</hi>
+               </abbr> and as much from thoſe places to <hi>London,</hi> in all 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> is four dayes going, four dayes coming in the Journey they change Coaches and Coachmen four times, and each perſon that travels uſually gives the Coachman 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> at the end of his Stage; that comes to 8 <abbr>
+                  <hi>s.</hi>
+               </abbr> and payes at leaſt 3 <abbr>
+                  <hi>s.</hi>
+               </abbr> more for the Drink the Coachmen have upon the Road, this comes in all, to 4<abbr>
+                  <hi>l.</hi>
+               </abbr> 11 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>This traveller when he comes to <hi>London</hi> on Horſeback, lyes at one Inn, payes nothing for his Lodg<g ref="char:EOLhyphen"/>ing, but coming in Coach, payes 5 or 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> a week for his Lodging, ſo that if he ſtay fourteen dayes in <hi>London,</hi> it coſts him 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> this makes 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> beſides the inconveniency of having meat from Cooks at twice the rate he might have it in Inns, now if theſe Coaches were down, excellent Horſes would be bred and kept by Gentlemen for their own uſe, and for men that cannot keep Horſes good, would be kept by others to ſet out to hyer, theſe a man would let for 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> or 12 <abbr>
+                  <hi>s.</hi>
+               </abbr> a Week. So that if a man were to come from <hi>York</hi> or any other long Stage to <hi>London,</hi> ſay he were five dayes coming, five dayes going, and ſtay twelve dayes in <hi>London</hi> to diſpatch his buſineſs in all three Weeks, Horſe hyer will come to 36 <abbr>
+                  <hi>s.</hi>
+               </abbr> Horſe meat at 14 <abbr>
+                  <hi>d.</hi>
+               </abbr> a day one day with anot her comes to 1 <abbr>
+                  <hi>l.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> in all 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> ſo that there is forty ſhillings perfectly ſaved, towards paying for Boots, Spurrs, Saddles, Rideing-Clothes that are neceſſary for travellers on Horſeback, and would certainly be better ſpent on theſe things, by making whereof the Poor are kept and relieved, then to be given to a Stage-Coachman for indulg<g ref="char:EOLhyphen"/>ing a man in his lazie and idle habit of body, and thus in proportion a man may ſave from all ſhorter Stages. From <hi>Northampton</hi> you muſt pay 16 <abbr>
+                  <hi>s.</hi>
+               </abbr> to <hi>London,</hi> and ſo much back from <hi>Briſtoll,</hi> 25 <abbr>
+                  <hi>s.</hi>
+               </abbr> from <hi>Bath.</hi> 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> from <hi>Redding</hi> 7 <abbr>
+                  <hi>s.</hi>
+               </abbr> from <hi>Salsbury</hi> 20, or 25 <abbr>
+                  <hi>s.</hi>
+               </abbr> and ſo in proportion for ſhorter or longer Stages. If a man come on his own Horſes, the very mony paid for Coach hyer would defray the charges upon the Road; but for them that keep no Horſes, if theſe Coaches were down, you would have in all great Towns of <hi>England,</hi> many good Horſes kept to be let to travellers, and there would be a Correſponden<g ref="char:EOLhyphen"/>cy between thoſe that keep Horſes in one Town, and thoſe that keep them in another; ſo that a man might come to <hi>Northampton</hi> or to any other place, and have Horſes for half the price they now pay for Coach hyer, and leave the Horſe at <hi>London,</hi> and when his buſineſs is done in <hi>London,</hi> might hyer Horſes back for halfe what is paid for Coach hyer, thus it would be over <hi>England;</hi> by which incouragement would be given to breed vaſt numbers of Horſes, and Gentlemen would be neceſſitated to keep Horſes for their own uſe, and thoſe would be kept in the Kingdom which are now (almoſt all that are good for any thing) ſent out, and great numbers would be kept in all Cities and great Towns to be hyred out, which would occaſion the conſumption of vaſt quantities of Horſe-meat, and raiſe the price of them, and con<g ref="char:EOLhyphen"/>ſequently rents of Lands.</p>
+            <p>Thirdly, Theſe Coaches are neither advantagious to mens healths or buſineſs.</p>
+            <p>Pray what advantage to a mans health is it, to be called into the Coach an hour before day in a morn<g ref="char:EOLhyphen"/>ing, and to be kept in the Coach an hour or two within night to ſit in Winter time ſhaking with Cold, choaked with Foggs, freezing for want of ſtirring, brought into the Inn ſo late at night, he cannot ſtay up to get a Supper becauſe he muſt be gon early, call'd up ſo early that he cannot eat, hurryed along all day that he can get nothing to Eat.</p>
+            <p>What conveniency is it for a man when his buſineſs is done at <hi>London</hi> or elſe where, for want of a Horſe to ſtay a Week or fourteen dayes for a paſſage in one of theſe Coaches at great charge that he might ſave?</p>
+            <p>What conveniency is it for a man that day he is to go out of Town, to be forced to an hour, or elſe left behind, ſo that often he is compelled to leave buſineſs undone and come again about it, which might have been done in an hour or two, and all this to comply with a ſurly curſing Coachman?</p>
+            <p>What conveniency is it that a man can never go out of the Road upon any occaſion whatſoever, nor ſtay at any town to ſee a friend, or diſpatch any buſineſs, but where theſe Coachmen pleaſe, and as little time as they pleaſe?</p>
+            <p>What conveniency is it to be ſtuft up in a Coach with Strangers, old Sickley diſeaſed people crying Children, to whoſe humours men muſt be ſubject, and forced to bear withall and be crowded with their bundles and boxes, and almoſt poyſoned ſometimes with there naſty ſents.</p>
+            <p>
+               <pb n="4" facs="tcp:153280:5"/>But to have theſe Coaches ſuppreſſed, mens lazye humours diſcountenanced, and for men to travell on Horſeback, this would be a great inconveniency.</p>
+            <p>For then Gentlemen might ſo ſoon as their buſineſs is done, having Horſes ready, return home, and not be compelled to ſtay for a paſſage in theſe Coaches.</p>
+            <p>They may go out in the morning at what time they pleaſe, come in at night as early as they pleaſe, chuſe their company on the Road, and avoid thoſe that ſuted not with their quallities and tempers, they might ſtay as often and as long in the day time at any place, to bate as they pleaſed, go out of the Road when they pleaſe, travel as ſhort or long Journies as they pleaſe, keep out of the Foggs, Cold, or Wet, as much as they pleaſe; and thereby preſerve their health by taking into a Houſe when the weather is un<g ref="char:EOLhyphen"/>fit for travelling. And by this means would many poor Families in the Country be maintained, the Taylors would get mony by mending Cloathes, the Sadlers by ſtuffing or mending Saddles, Smiths by ſhoing Horſes, mending Bits, Snaffles, <hi>&amp;c.</hi> Shomakers by liquoring and mending old Boots, or ſel<g ref="char:EOLhyphen"/>ling new ones, the Hatter by dreſſing or putting Hats on the Block when ſpoyled with dirt and the wea<g ref="char:EOLhyphen"/>ther, and many other Tradſemen be maintained, beſides this way of Travelling. Travellers would come into their Inns before Shops ſhut up, ſtay till Shops open in the morning, underſtand the trade of the Town, and if they find any thing uſefull for them, lay out Mony, buy of the Manufacturies off the place, as Silk or Wooſted Stockings in ſome places, Laces in other places, Gloves at other places, Bootes or Shooes at other places, Linnen-Cloath at other places; this would be a great relief and incouragement to the poor People that make theſe things, and bring mony to the ſeveral Towns where they live, and an advantage to thoſe that buy them.</p>
+            <p>And if theſe Coaches were put down, perſons would not ſo often travel from home, but keep in the Countrey, and live upon their Eſtates, by means whereof, they would buy what they had occaſion of in the Countrey of the Mercers, or other Tradeſmen there, who are now moſt of them ruin'd by their neigh<g ref="char:EOLhyphen"/>bours buying all at <hi>London;</hi> and by this means money would be kept circulating in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Countrey, the antient Trade of <hi>London</hi> with Countrey Chapmen kept up, which would be of advantage to <hi>London,</hi> for then they know who they truſt, and where to have money certainly when due; advantage to Countrey Chapmen, by reviving Trade amongſt them again, and advantage to the Gentlemen who will ſave the charges of journeys to <hi>London</hi> to provide what he may have in the Countrey, and thus Gentlemen being in the Countrey and keeping Horſes, and good houſes will take off their Tenants proviſion, cauſe ſuch a conſumption of them that the price of them and of his Lands thereby will quickly be raiſed. But theſe things and a hundred more that might be named, (only it is feared they would be too long,) theſe are nei<g ref="char:EOLhyphen"/>ther conducing to Travellors healths, or buſineſs, but Stage-Coaches are, <hi>Ergo</hi> to be encouraged.</p>
+            <p n="4">4. Theſe Coaches are not abſolutely neceſſary to any perſon, for ſick and aged perſons may travel in the Long Coaches aforementioned, with more eaſe and better conveniency to them, then the hurrying Coaches that travel ſo early and late, and run ſo far of a day, and ſtop ſo little by the way, and they are much better for children.</p>
+            <p>They are not uſeful to others, for any man may hier a Coach if his condition or buſineſs requires it, or travel in his own Coach.</p>
+            <p>But theſe Coaches are impoſed upon many, for ſince they have been ſet up in ſuch multitudes, men careleſs of keeping good horſes ſold them, and they are now forced to come by Coach or no way; Keepers of Horſes to Lett to hyer, being ſo diſcouraged by them, that they keep none; upon all theſe accounts it is hoped the Arguments uſed for continuing the Stage-Coaches, makes clear for the ſuppreſſing them, ſince men without Coaches may travel more to the advantage and benefit of the publick, with as little or leſs ex<g ref="char:EOLhyphen"/>pence of money and time, and yet do infinitely more good with it than by travelling in Coaches, and may Travel with moſt advantage to their healths and buſineſs.</p>
+            <p>And ſince Running Stage-Coaches are neither abſolutely neceſſary to any, or uſeful to others, more then other Coaches would be, and yet are impoſed upon many of the Subjects, <hi>Ergo</hi> they ſhould be diſ<g ref="char:EOLhyphen"/>countenanced.</p>
+         </div>
+         <div type="answer">
+            <pb facs="tcp:153280:5"/>
+            <head>For the Anſwer they have given to the Reaſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not think them worthy a Reply, but leave all men that read the Reaſons, and their Anſwe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judge how little they have to ſay againſt the truth of what is offered againſt them; but ſhall diſcovery of one or two falacies, by which they endeavour to deceive the people.</head>
+            <p>THE long Stage-men tell all people they hinder not the conſumption of Horſe-meat; for they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but 36 Paſſengers in a Week, and do keep 40 Horſes, each of which doth eat double what a S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> horſe eats.</p>
+            <p>For anſwer; It is true they keep 40 Horſes, and carry but 36 men in a Week; but they carry 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ral Paſſengers every Week, and keep the ſame 40 Horſes all the year; ſo that in one year with 40 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they carry 1872. Paſſengers, which muſt go and come thoſe Journeys. Let all the world judge w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if there were not theſe Coaches, would not at leaſt 1000 of theſe Travellers keep Horſes for themſelv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſes for their Men ſome of them; ſo that there would be 1800. at leaſt uſed to do the work that n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do, the like diſproportions there is in all the long Stages</p>
+            <p>Come to your ſhort Stages 20 or 30 Miles a day, each 4 Horſes in a Coach, carries 6 Paſſengers that is, 36 in a Week, which makes 1872. in a Year; Conſider then how many Coaches there a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Windſor,</hi> who with 16 Horſes carry 7442. Paſſengers yearly, 4 at <hi>Redding,</hi> who with 32 Horſes c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many; 10 at St. <hi>Albons:</hi> and ſo there are to all Towns within 20 or 30 Miles of <hi>London.</hi> Conſide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one of theſe Coaches carrying 1872. Paſſengers a Year with 4 Horſes, how many of theſe 1872. mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſes of their own, or hire Horſes that would be kept to be let, you would find there would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Horſes at leaſt kept for one that is now kept, which will occaſion the conſumption of Horſe-meat.</p>
+            <p>It is obſervable, Before theſe Coaches ſet up, <hi>London</hi> ſpent all the Hay, Oats, Beans, Peaſe wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or 30 Miles off <hi>London</hi> that could be ſpared out of the Countrey, and had vaſt quantities from <hi>He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Water, and from below <hi>Graves-end,</hi> many Ships Lading of Beans from <hi>Hull,</hi> a world of <hi>Lincoln-ſhi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> from <hi>Boston</hi> and <hi>Lynn,</hi> and then Corne and Hay for Horſes bore a good Price at <hi>London;</hi> whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Standard for all Countrey-markets, and then great ſtore of Cattle came from <hi>York-ſhire Lancaſhire <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>coln-ſhire,</hi> and bore greater Price then now, and that it is not ſo at this time, is the great prejudice<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Countrey, and why it is not ſo now, is plain.</p>
+            <p>It is in great meaſure occaſioned by theſe Stage-Coaches, that are ſo numerous, and common, and g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Towns, ſo that no man now will keep a Horſe; Why? becauſe his Rents are fallen he cannot; Why i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fallen? becauſe there is no conſumption, why no conſumption of Horſe-meat? becauſe now 40 H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the longeſt Stages, 32 Horſes in middle Stages, and 4 Horſes in twenty Miles Stages, do the work of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1500. Horſes that would otherwiſe be kept.</p>
+            <p>In <hi>London</hi> and <hi>Middleſex,</hi> before theſe Coaches ſet up, abundance of Merchants and oth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Trades-men, as well as all Gentlemen, conſidering their occaſions ſome to ride to Fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Markets, others to take their pleaſure, or go to their Countrey-Houſes, keep Horſes for themſelv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for their men; but when the Act for reſtraining the Hackney-Coaches in <hi>London</hi> to 400. came out were above 1200. in <hi>London,</hi> who finding they could not work, then removed and placed themſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 3 in a Town, in almoſt every little Town or Village within 10 or 12 Miles, and all along the River of 7 and at each Town near the ſaid River; ſo that now Citizens and Gentlemen in <hi>Middleſex.</hi> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſes, and men to look to thoſe Horſes, and Horſes for them to ride with them, having a Paſſag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shilling or two from or into any Town or place about <hi>London</hi> keep no Horſes, nor the men they uſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Gentlemen that come to Town in Coaches, coming without Men or Horſes; hinder the great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion of proviſion for Man and Beaſt, that uſed to be in <hi>London, London</hi> not being now able to ſpend wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> within twenty Miles of it; nor the Beaſts that come from the Countries aforeſaid, which is to the great p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Gentlemen and the Graſiers, and by this means Paſture-lands about <hi>London</hi> are fallen a third<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Theſe Coaches ruine the Water-men, carry all Paſſengers that uſed to be Skuller or Oar-fares, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the breeding Sea-men for the uſe of the Kingdom.</p>
+            <p>They hinder the breed of Horſes, of which there will be a neceſſity for all Gentlemen to apply th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto when Stage-Coaches are put down, otherwiſe the Kingdom cannot be ſerved.</p>
+            <p>They ruin the 400. Hackney-Coaches in <hi>London</hi> that are Licenſed, pay 5 <abbr>
+                  <hi>l</hi>
+               </abbr> a Year, are bound to k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſes and Coaches; for theſe ſhort Stage-men bring and carry all Paſſengers to all Towns within <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>London,</hi> and come into <hi>London,</hi> break and annoy the Streets, yet pay nothing towards repairi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if they were down, at leaſt 100. or 150. of the 400. would be hired out of <hi>London,</hi> by which t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would be leſs broken or annoyed.</p>
+            <p>They not only hinder the conſumption of Leather, by making Boots, Saddles, Portmantues, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holſters, Belts, Girts, uſeleſs, but hinder making many Coaches; for if they were down, there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made two for every one that is now made.</p>
+            <p>They prejudice the Poſt-office certainly, when Coachmen within 20 Miles of <hi>London</hi> offer to g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maſters 15 or 20 <hi>
+                  <abbr>l.</abbr> per annum</hi> a piece for the benefit of their Letters,.</p>
+            <p>They muſt hinder the exciſe, when it is plain, not one moiety of the Beer and Ale is conſumed on t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or in the Inns in <hi>London,</hi> that there was when Gentlemen did travel with Servants, the Inn-keeper <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> two thirds ſo much for the Exciſe as they uſed to do.</p>
+            <p>In ſhort, Stage-Coaches are become by their numerouſneſs a common Nuſance, and tend to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on of the whole Kingdom, ſo that from all Parts and great Cities and Towns in <hi>England</hi> complai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt them, and moſt of them petition for ſuppreſſing them. And in as much it is as true, the Pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the War deſtroyed many people, which hinder a great conſumption of what was formerly, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now there is to uſe all mean<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſuppreſs thoſe projects that tend to the hindering of the conſumptio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may, and certainly will be conſumed when they are deſtroyed. And ſuch ſort he Reaſons aforeſaid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Coaches<g ref="char:punc">▪</g> 
+               <hi>Ergo.</hi> not to be countenanced.</p>
+            <pb facs="tcp:153280:6"/>
+            <pb facs="tcp:153280:6"/>
+            <pb facs="tcp:153280:7"/>
+            <pb facs="tcp:153280:7"/>
+            <pb facs="tcp:153280:8"/>
+            <pb facs="tcp:153280:8" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
